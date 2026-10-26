@@ -1,4 +1,4 @@
-const GOOGLE_SHEETS_URL = 'https://script.google.com/macros/s/AKfycbx0pmnFiYFnUtQUqLHgKLn2FN0j4Ke_wS5g5-uETSGZ_N0wz74cWB4F8O8B9YnDWEgE/exec'; // Isi dengan URL Web App Google Apps Script.
+const GOOGLE_SHEETS_URL = 'https://script.google.com/macros/s/AKfycbzGX0Ur8F2WjG6yRCuWj9RtqMexmD6htRO0uSMU3x1JSmYkrXa2UWcIaisk8-7ULSyx/exec'; // Isi dengan URL Web App Google Apps Script.
 const ADMIN_USERNAME = 'admin';
 const ADMIN_PASSWORD = 'tjkt2025';
 const DEFAULT_QUIZ_DURATION = 15;
